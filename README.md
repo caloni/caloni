@@ -6,8 +6,8 @@
 
 <a href="https://cplusplus.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="40" height="40" /></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" /></a>
-<a href="https://www.vim.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg" alt="Vim" width="40" height="40" /></a>
-<a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd" target="_blank"><img src="https://www.vectorlogo.zone/logos/ansi/ansi-ar21.svg" alt="CMD.EXE" width="40" height="40" /></a>
+<a href="https://www.vim.org/" target="_blank"><img src="https://www.vim.org/images/vim_header.gif" alt="Vim" /></a>
+<a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd" target="_blank"><img src="https://static.wikia.nocookie.net/logopedia/images/8/86/Windows_3.x_logo.svg" alt="CMD.EXE" width="40" height="40" /></a>
 
 ### Contact
 

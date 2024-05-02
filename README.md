@@ -1,6 +1,6 @@
 ### Ping? Pong!
 
-[About](https://caloni.com.br/about/)
+[About]([https://caloni.com.br/about/](https://caloni.com.br/2007-06.html#about))
 
 ### Tooling
 
@@ -11,7 +11,7 @@
 
 ### Contact
 
-<a href="mailto:wanderleycaloni@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40" /></a>
+<a href="mailto:wanderley.caloni@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40" /></a>
 <a href="https://www.linkedin.com/in/wanderleycaloni/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" /></a>
 
 ### Blog
@@ -19,11 +19,11 @@
 
 
 <!-- BLOG:START -->
-- [O Bug Mais Bizarro que já Resolvi](https://caloni.com.br/o-bug-mais-bizarro-que-ja-resolvi/)
-- [Antidebugging using exceptions](https://caloni.com.br/antidebugging-using-exceptions-part-one/)
-- [Como funciona o PsExec](https://caloni.com.br/como-funciona-o-psexec/)
-- [Conversor de Houaiss para Babylon](https://caloni.com.br/conversor-de-houaiss-para-babylon-parte-1/)
-- [Como Fazer Café](https://caloni.com.br/como-fazer-cafe/)
+- [O Bug Mais Bizarro que já Resolvi]([https://caloni.com.br/o-bug-mais-bizarro-que-ja-resolvi/](https://caloni.com.br/2020-05.html#o-bug-mais-bizarro-que-ja-resolvi))
+- [Antidebugging using exceptions]([https://caloni.com.br/antidebugging-using-exceptions-part-one/](https://caloni.com.br/2008-07.html#antidebugging-using-exceptions-part-one))
+- [Como funciona o PsExec]([https://caloni.com.br/como-funciona-o-psexec/](https://caloni.com.br/2008-10.html#como-funciona-o-psexec))
+- [Conversor de Houaiss para Babylon]([https://caloni.com.br/conversor-de-houaiss-para-babylon-parte-1/](https://caloni.com.br/2008-02.html#conversor-de-houaiss-para-babylon-parte-1))
+- [Como Fazer Café]([https://caloni.com.br/como-fazer-cafe/](https://caloni.com.br/2021-03.html#como-fazer-cafe))
 <!-- BLOG:END -->
 
 [https://caloni.com.br](https://caloni.com.br)

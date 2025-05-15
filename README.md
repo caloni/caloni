@@ -19,11 +19,11 @@
 
 
 <!-- BLOG:START -->
-- [O Bug Mais Bizarro que já Resolvi](https://caloni.com.br/2020-05.html#o-bug-mais-bizarro-que-ja-resolvi)
-- [Antidebugging using exceptions](https://caloni.com.br/2008-07.html#antidebugging-using-exceptions-part-one)
-- [Como funciona o PsExec](https://caloni.com.br/2008-10.html#como-funciona-o-psexec)
-- [Conversor de Houaiss para Babylon](https://caloni.com.br/2008-02.html#conversor-de-houaiss-para-babylon-parte-1)
-- [Como Fazer Café](https://caloni.com.br/2021-03.html#como-fazer-cafe)
+- [O Bug Mais Bizarro que já Resolvi](https://caloni.com.br/2020-05.html#o_bug_mais_bizarro_que_ja_resolvi)
+- [Antidebugging using exceptions](https://caloni.com.br/2008-07.html#antidebugging_using_exceptions_part_one)
+- [Como funciona o PsExec](https://caloni.com.br/2008-10.html#como_funciona_o_psexec)
+- [Conversor de Houaiss para Babylon](https://caloni.com.br/2008-02.html#conversor_de_houaiss_para_babylon_parte_1)
+- [Como Fazer Café](https://caloni.com.br/2023-06.html#como_fazer_cafe)
 <!-- BLOG:END -->
 
 [https://caloni.com.br](https://caloni.com.br)

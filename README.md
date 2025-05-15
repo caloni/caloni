@@ -11,7 +11,7 @@
 
 ### Contact
 
-<a href="mailto:wanderley.caloni@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40" /></a>
+<a href="mailto:wanderleycaloni@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40" /></a>
 <a href="https://www.linkedin.com/in/wanderleycaloni/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" /></a>
 
 ### Blog

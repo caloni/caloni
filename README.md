@@ -16,8 +16,6 @@
 
 ### Blog
 
-
-
 <!-- BLOG:START -->
 - [O Bug Mais Bizarro que já Resolvi](https://caloni.com.br/2020-05.html#o_bug_mais_bizarro_que_ja_resolvi)
 - [Antidebugging using exceptions](https://caloni.com.br/2008-07.html#antidebugging_using_exceptions_part_one)
@@ -27,6 +25,8 @@
 <!-- BLOG:END -->
 
 [https://caloni.com.br](https://caloni.com.br)
+
+Buy me a coffee: https://ko-fi.com/wcaloni
 
 ### GitHub
 
